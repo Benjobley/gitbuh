@@ -1,3 +1,3 @@
 document.getElementById("btn").addEventListener("click", function() {
-alert("You clicked me!");
+  alert("You clicked me!");
 });
